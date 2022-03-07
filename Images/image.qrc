@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>normalview.png</file>
+    <file>full screen.png</file>
+    <file>arrow-continue.png</file>
+    <file>arrow-curve.png</file>
+    <file>arrow-curve-180-left.png</file>
+    <file>blue-folder-open-document.png</file>
+    <file>clipboard-paste-document-text.png</file>
+    <file>disk.png</file>
+    <file>disk--pencil.png</file>
+    <file>document-copy.png</file>
+    <file>printer.png</file>
+    <file>question.png</file>
+    <file>scissors.png</file>
+    <file>selection-input.png</file>
+    <file>ui-tab--plus.png</file>
+  </qresource>
+</RCC>
